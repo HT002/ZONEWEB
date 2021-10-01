@@ -38,7 +38,7 @@ my website
 
 		$(function() {
 
-			$(".preload").fadeOut(2000, 
+			$(".preload").fadeOut(2500, 
 
 		function() {
 
