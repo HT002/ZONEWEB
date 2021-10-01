@@ -56,7 +56,7 @@ my website
 
 	<body>
 
-		<div class="preload"><img src="https://user-images.githubusercontent.com/79648523/135586418-f107cacc-0d0c-40a3-a3ca-fc182806f6e1.gif"></div>
+		<div class="preload"><img src="https://user-images.githubusercontent.com/79648523/135588668-66aca3cd-4444-4b93-9b7e-eea2089b28bd.gif"></div>
 
 		<div class="content">
 
@@ -72,4 +72,4 @@ my website
 
 <!-- https://smallenvelop.com/display-loading-icon-page-loads-completely/ -->
 
-© 2021 GitHub, Inc.
+© 2021 GitHub, I
