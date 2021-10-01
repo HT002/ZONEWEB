@@ -55,7 +55,7 @@ my website
 
 	<body>
 
-		<div class="preload"><img src="https://user-images.githubusercontent.com/79648523/135594103-1ae53d37-e6c1-41a4-9699-1f24ea7f7222.gif"></div>
+		<div class="preload"><img src="https://user-images.githubusercontent.com/79648523/135594794-af060dfd-e56b-4911-b36a-e8212a8dd210.gif"></div>
 
 		<div class="content">
 
